@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background-color: #222233;
+}
+canvas {
+  cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABE0lEQVQ4T2PUsQv4zwAEQOIBAwNjw9VD6xeC+OQCRpiBMAMoNZhR2zbgASMjg7y1uRHDnfuPGF6+egM2m1yDQQYmAA2cLyEmyrBiTg/D9r2HGRYs30C2wYwg18BcWZ6fwuDpbAt2IbkGwwxEcSVyhJBqMNhAXK4kx2BkA3G6khSD4QYS40piDEY3kChX4jMYxUBSXQkz+PPXrwyRKaUMX4A0NgNJciXIsMKqTmCmeMjw/z/DRQwDSXElumFfmRkccBlI0JXYDHtwYMMHrAYSciUuw0D68BmI1ZX4DMNrIDZXEjKMGAPhrpw9sRElNkERAAoz9IIYp5fR8zgPNzc4nYGSBi7DCLoQ6m2wK8GFLgHDQGoAHysV98rssWkAAAAASUVORK5CYII=), auto;
+  position: absolute;
+  top: calc(50% - 250px);
+  left: calc(50% - 250px);
+}
